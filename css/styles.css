@@ -196,7 +196,8 @@ img {
 /* ----------------------ОСОБЛИВОСТІ--------------------*/
 
 .features {
-  padding: var(--container-gap) 215px;
+  padding-top: var(--container-gap);
+  padding-bottom: var(--container-gap);
 }
 
 .features-list {
